@@ -6,5 +6,7 @@
 *.xlsx
 *.db
 *.sqlite
+*.env
+.env
 *.log
 /data/
