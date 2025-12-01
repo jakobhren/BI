@@ -1,0 +1,10 @@
+# Ignore data files
+*.csv
+*.json
+*.xml
+*.xls
+*.xlsx
+*.db
+*.sqlite
+*.log
+/data/
